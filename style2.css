@@ -1,0 +1,44 @@
+.header{
+    text-align: center;
+    background: #000000;
+    padding: 0.1px;
+    color: rgb(255, 255, 255);
+    border-radius: 0;
+    background-image: linear-gradient(to left, #005503, #007c05, #00a607, #00d209, #00ff09);
+}
+
+.bar{
+    text-align: center;
+    font-size: 30px;
+    background-image: linear-gradient(to right, #dadde2, #d0d1d5, #c5c6c8, #bababb, #afafaf);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100vw;
+    height: max-content;
+    margin-top: 50px;
+    padding: 15px;
+    border-radius: 10px;
+    background: white;
+    background-image: linear-gradient(to right, #005503, #007c05, #00a607, #00d209, #00ff09);
+  }
+  
+
+.container .title{
+    font-size: 30px;
+    margin-bottom: 10px;
+}
+
+.label-besar{
+    font-size: 23px;
+}
+
+
+
+
+
+
+
